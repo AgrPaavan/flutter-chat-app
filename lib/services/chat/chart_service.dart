@@ -127,7 +127,7 @@ class ChatService extends ChangeNotifier {
       final blockedUserIds = snapshot.docs.map((doc) => doc.id).toList();
 
       final userDocs = await Future.wait(blockedUserIds
-          .map((id) => _firestore.collection("user").doc(id).get()));
+          .map((id) => _firestore.collection("users").doc(id).get()));
 
       return userDocs.map((doc) => doc.data() as Map<String, dynamic>).toList();
     });

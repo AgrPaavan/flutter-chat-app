@@ -9,7 +9,7 @@ class ChatPage extends StatefulWidget {
   final String receiverEmail;
   final String receiverId;
 
-  ChatPage({
+  const ChatPage({
     super.key,
     required this.receiverEmail,
     required this.receiverId,
@@ -119,11 +119,11 @@ class _ChatPageState extends State<ChatPage> {
 
     bool isCurrentUser = data['senderId'] == _authService.getCurrentUser()!.uid;
 
-    var alignmenst =
+    var alignment =
         isCurrentUser ? Alignment.centerRight : Alignment.centerLeft;
 
     return Container(
-      alignment: alignmenst,
+      alignment: alignment,
       child: ChatBubble(
         message: data["message"],
         isCurrentUser: isCurrentUser,
