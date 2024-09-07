@@ -21,7 +21,7 @@ A basic chat application with functionality for reporting and blocking users. Th
 ### Clone the Repository
 
 ```sh
-git clone https://github.com/agrpaavan/chat-app.git
+git clone https://github.com/agrpaavan/flutter-chat-app.git
 cd chat-app
 ```
 
@@ -84,28 +84,21 @@ flutter pub get
 
 ## APK Download and Installation
 
-You can download the latest APK file from the [Releases](https://github.com/agrpaavan/chat-app/releases) section of this repository.
+You can download the latest APK file from the [Releases](https://github.com/agrpaavan/flutter-chat-app/releases) section of this repository.
 
 ### Installation Instructions
 
 1. **Download the APK**:
-   - Go to the [Releases page](https://github.com/agrpaavan/chat-app/releases) and download the latest APK file.
+   - Go to the [Releases page](https://github.com/agrpaavan/flutter-chat-app/releases) and download the latest APK file.
 
 2. **Install the APK**:
    - Ensure that installation from unknown sources is enabled on your device:
      - Go to `Settings` > `Security` > `Install unknown apps` and enable the option for your file manager or browser.
    - Open the downloaded APK file on your device and follow the prompts to install the app.
 
-## Usage
-
-1. Open the app on your device.
-2. Sign in or register a new account.
-3. Start a chat with other users.
-4. Use the report and block features to manage interactions.
-
 ## Contributing
 
-Contributions are welcome! Please follow these steps to contribute:
+Feel free to fork this repository and make improvements or suggest features!
 
 1. Fork the repository.
 2. Create a new branch for your changes.
@@ -114,11 +107,11 @@ Contributions are welcome! Please follow these steps to contribute:
 
 ## Issues
 
-If you encounter any issues or have suggestions, please use the [Issue Tracker](https://github.com/agrpaavan/chat-app/issues) to report them.
+If you encounter any issues or have suggestions, please use the [Issue Tracker](https://github.com/agrpaavan/flutter-chat-app/issues) to report them.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/AgrPaavan/flutter-chatApp/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/AgrPaavan/flutter-chat-app/blob/main/LICENSE) file for details.
 
 ## Acknowledgments
 
