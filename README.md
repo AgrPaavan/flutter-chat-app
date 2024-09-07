@@ -68,17 +68,11 @@ flutter pub get
 
 ### Run the App
 
-- **For Android**: Connect an Android device or start an Android emulator, then run:
+Connect an Android or IOS device or start an emulator, then run:
 
-  ```sh
-  flutter run
-  ```
-
-- **For iOS**: Connect an iOS device or start an iOS simulator, then run:
-
-  ```sh
-  flutter run
-  ```
+```sh
+flutter run
+```
 
 ## APK Download and Installation
 
