@@ -14,9 +14,7 @@ A basic chat application with functionality for reporting and blocking users. Th
 
 ### Prerequisites
 
-- [Flutter](https://flutter.dev/docs/get-started/install) SDK installed on your machine.
-- [Android SDK](https://developer.android.com/studio) and [NDK](https://developer.android.com/ndk) installed.
-- A text editor such as [Visual Studio Code](https://code.visualstudio.com/).
+- Flutter SDK (>=3.5.1)
 
 ### Clone the Repository
 
