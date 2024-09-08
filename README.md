@@ -10,6 +10,230 @@ A basic chat application with functionality for reporting and blocking users. Th
 - **Report Functionality**: Report inappropriate messages or users.
 - **Block Functionality**: Block users to prevent unwanted interactions.
 
+## Screenshots
+
+### Light Mode
+
+<div align="center">
+  <table style="border: 0px">
+    <tr>
+      <td>
+        <img
+          src="./assets/screenshots/light/login_screen.png"
+          alt="Login Screen"
+          width="200"
+        />
+      </td>
+      <td>
+        <img
+          src="./assets/screenshots/light/register_screen.png"
+          alt="Register Screen"
+          width="200"
+        />
+      </td>
+      <td>
+        <img
+          src="./assets/screenshots/light/home_screen.png"
+          alt="Home Screen"
+          width="200"
+        />
+      </td>
+    </tr>
+    <tr style="text-align: center">
+      <td>Login Screen</td>
+      <td>Register Screen</td>
+      <td>Home Screen</td>
+    </tr>
+    <tr>
+      <td>
+        <img
+          src="./assets/screenshots/light/side_drawer.png"
+          alt="Drawer"
+          width="200"
+        />
+      </td>
+      <td>
+        <img
+          src="./assets/screenshots/light/chat_screen.png"
+          alt="Chat Screen"
+          width="200"
+        />
+      </td>
+      <td>
+        <img
+          src="./assets/screenshots/light/chat_options.png"
+          alt="Chat Message Options"
+          width="200"
+        />
+      </td>
+    </tr>
+    <tr style="text-align: center">
+      <td>Drawer Menu</td>
+      <td>Chats Screen</td>
+      <td>Chat Message Options</td>
+    </tr>
+    <tr>
+      <td>
+        <img
+          src="./assets/screenshots/light/report_confirm.png"
+          alt="Report Message"
+          width="200"
+        />
+      </td>
+      <td>
+        <img
+          src="./assets/screenshots/light/block_confirm.png"
+          alt="Block User"
+          width="200"
+        />
+      </td>
+      <td>
+        <img
+          src="./assets/screenshots/light/unblock_confirm.png"
+          alt="Unblock User"
+          width="200"
+        />
+      </td>
+    </tr>
+    <tr style="text-align: center">
+      <td>Report Message</td>
+      <td>Block User</td>
+      <td>Unblock user</td>
+    </tr>
+    <tr>
+      <td>
+        <img
+          src="./assets/screenshots/light/settings_screen.png"
+          alt="Settings Screen"
+          width="200"
+        />
+      </td>
+      <td>
+        <img
+          src="./assets/screenshots/light/blocked_users_screen.png"
+          alt="Blocked Users Screen"
+          width="200"
+        />
+      </td>
+    </tr>
+    <tr style="text-align: center">
+      <td>Settings Screen</td>
+      <td>Blocked Users Screen</td>
+    </tr>
+  </table>
+</div>
+
+### Dark Mode
+
+<div align="center">
+  <table style="border: 0px">
+    <tr>
+      <td>
+        <img
+          src="./assets/screenshots/dark/login_screen.png"
+          alt="Login Screen"
+          width="200"
+        />
+      </td>
+      <td>
+        <img
+          src="./assets/screenshots/dark/register_screen.png"
+          alt="Register Screen"
+          width="200"
+        />
+      </td>
+      <td>
+        <img
+          src="./assets/screenshots/dark/home_screen.png"
+          alt="Home Screen"
+          width="200"
+        />
+      </td>
+    </tr>
+    <tr style="text-align: center">
+      <td>Login Screen</td>
+      <td>Register Screen</td>
+      <td>Home Screen</td>
+    </tr>
+    <tr>
+      <td>
+        <img
+          src="./assets/screenshots/dark/side_drawer.png"
+          alt="Drawer"
+          width="200"
+        />
+      </td>
+      <td>
+        <img
+          src="./assets/screenshots/dark/chat_screen.png"
+          alt="Chat Screen"
+          width="200"
+        />
+      </td>
+      <td>
+        <img
+          src="./assets/screenshots/dark/chat_options.png"
+          alt="Chat Message Options"
+          width="200"
+        />
+      </td>
+    </tr>
+    <tr style="text-align: center">
+      <td>Drawer Menu</td>
+      <td>Chats Screen</td>
+      <td>Chat Message Options</td>
+    </tr>
+    <tr>
+      <td>
+        <img
+          src="./assets/screenshots/dark/report_confirm.png"
+          alt="Report Message"
+          width="200"
+        />
+      </td>
+      <td>
+        <img
+          src="./assets/screenshots/dark/block_confirm.png"
+          alt="Block User"
+          width="200"
+        />
+      </td>
+      <td>
+        <img
+          src="./assets/screenshots/dark/unblock_confirm.png"
+          alt="Unblock User"
+          width="200"
+        />
+      </td>
+    </tr>
+    <tr style="text-align: center">
+      <td>Report Message</td>
+      <td>Block User</td>
+      <td>Unblock user</td>
+    </tr>
+    <tr>
+      <td>
+        <img
+          src="./assets/screenshots/dark/settings_screen.png"
+          alt="Settings Screen"
+          width="200"
+        />
+      </td>
+      <td>
+        <img
+          src="./assets/screenshots/dark/blocked_users_screen.png"
+          alt="Blocked Users Screen"
+          width="200"
+        />
+      </td>
+    </tr>
+    <tr style="text-align: center">
+      <td>Settings Screen</td>
+      <td>Blocked Users Screen</td>
+    </tr>
+  </table>
+</div>
+
 ## Installation
 
 ### Prerequisites
